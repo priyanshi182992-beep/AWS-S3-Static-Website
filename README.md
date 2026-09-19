@@ -47,7 +47,7 @@ AWS-S3-Static-Website/
 
 The website is hosted using the **Amazon S3 Static Website Hosting endpoint**.
 
-> Add your S3 website endpoint here after deployment.
+> 🌐 **Live Website:** http://aws-project-web-202619sep.s3-website.ap-south-1.amazonaws.com
 
 ## 🎯 Learning Outcomes
 
